@@ -1,0 +1,28 @@
+{
+  "todo": [
+    {
+      "key": "1",
+      "name": "Learn React",
+      "prioriry": "Medium",
+      "complete": false
+    },
+    {
+      "key": "2",
+      "name": "Learn Redux",
+      "prioriry": "Low",
+      "complete": true
+    },
+    {
+      "key": "3",
+      "name": "Learn Java",
+      "prioriry": "High",
+      "complete": true
+    },
+    {
+      "key": "4",
+      "name": "Learn JavaScript",
+      "prioriry": "Medium",
+      "complete": false
+    }
+  ]
+}
